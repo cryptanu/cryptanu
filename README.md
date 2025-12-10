@@ -20,13 +20,10 @@
 | Protocol | Category | Date | Findings (H/M/L) | Report | Status |
 |----------|----------|------|------------------|--------|--------|
 | ContinuumDAO | RWA, Governance, Multichain | 2025 | 21/13/24 | [🔓 Report](https://github.com/Quillhash/QuillAudit_Reports/blob/master/Continuum%20DAO%20Smart%20Contract%20Audit%20report%20-%20QuillAudits.pdf) | ✅ Complete |
-| Taiko | Bridge | 2024 | 4/0/6 | [🔓 Report](https://github.com/Quillhash/QuillAudit_Reports/blob/master/Taiko%20Smart%20Contracts%20Audit%20Report%20-%20QuillAudits.pdf) | ✅ Complete |
 | NexLabs | RWA | 2025 | 1/6/5 | [🔓 Report](https://github.com/Quillhash/QuillAudit_Reports/blob/master/Nex%20labs%20Defi%20Indices%20Audit%20report%20-%20QuillAudits.pdf) | ✅ Complete |
+| Taiko | Bridge | 2024 | 4/0/6 | [🔓 Report](https://github.com/Quillhash/QuillAudit_Reports/blob/master/Taiko%20Smart%20Contracts%20Audit%20Report%20-%20QuillAudits.pdf) | ✅ Complete |
 | IntoTheVerse | NFT Marketplace | 2024 | 6/2/4 | [🔓 Report](https://github.com/Quillhash/QuillAudit_Reports/blob/master/IntoTheVerse%20Smart%20Contract%20Audit%20Report%20-%20QuillAudits.pdf) | ✅ Complete |
 | Aconomy | Lending | 2024 | 0/7/13 | [🔓 Report](https://github.com/Quillhash/QuillAudit_Reports/blob/master/Aconomy%20Smart%20Contract%20Audit%20Report%20-%20QuillAudits.pdf) | ✅ Complete |
-| WadzChain | Cross-chain | 2024 | 0/1/4 | [🔓 Report](https://github.com/Quillhash/QuillAudit_Reports/blob/master/W%20Chain%20Bridge%20Conract%20Audit%20Report%20-%20QuillAudits.pdf) | ✅ Complete |
-| FooDriver | RWA | 2024 | 2/3/1 | [🔓 Report](https://github.com/Quillhash/QuillAudit_Reports/blob/master/FooDriver%20Smart%20Contract%20Audit%20Report%20-%20QuillAudits.pdf) | ✅ Complete |
-| NFJLabs | NFT Marketplace | 2023 | 2/3/2 | [🔓 Report](https://github.com/Quillhash/QuillAudit_Reports/blob/master/NFJ%20Labs%20Smart%20Contract%20Audit%20Report%20-%20QuillAudits.pdf) | ✅ Complete |
 
 ## Summary Statistics
 
