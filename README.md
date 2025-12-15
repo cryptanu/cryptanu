@@ -6,8 +6,8 @@
 - Audited 40+ blockchain protocols spanning across RWA, DeFi, AMM, NFT, Gaming, DAO, Launchpad, L1, Crosschain  
 
 ## Live Protocol Findings
-- Saved a protocol with $3m TVL by catching a 2 y.o. vulnerability in the wild. [Writeup](https://www.linkedin.com/posts/anuoluwapo-adeleke-75a705196_solidity-security-activity-7234483333722775552-f3Tp?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC4F2fYBD6ZRHnINz7yz7tkiMN-0yifOAzI)
-- Responsible disclosure of medium severity vulnerability in Dinari (an RWA-tokenization protocol) with $50m TVL. [TBD]()
+- Saved a protocol with $3m TVL by catching a 2 y.o. vulnerability in the wild. [Read here](https://www.linkedin.com/posts/anuoluwapo-adeleke-75a705196_solidity-security-activity-7234483333722775552-f3Tp?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC4F2fYBD6ZRHnINz7yz7tkiMN-0yifOAzI)
+- Responsible disclosure of medium severity vulnerability in Dinari (an RWA-tokenization protocol) with >$40m TVL. [Dinari Responsible Disclosure](https://gist.github.com/cryptanu/c4ac07f5e602f4c7ef98e9b54091dc1c)
 
 ## My Audit Profiles & Links
 - **Official audit portfolio**: [QuillAudits Profile](https://quillaudits.com/auditors/cryptanu)
