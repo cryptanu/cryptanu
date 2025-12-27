@@ -1,4 +1,4 @@
-# Cryptanu - Smart Contract Security Auditor
+# Cryptanu - Smart Contract Security Researcher
 
 ## Profile
 - Security Researcher, **QuillAudits**
