@@ -21,7 +21,7 @@
 
 | Protocol | Category | Date | Findings (C/H/M) | Report | Status |
 |----------|----------|------|------------------|--------|--------|
-| HeyElsa | Staking | 2026 | 0/1/4 | [🔓 Report]([https://github.com/Quillhash/QuillAudit_Reports/blob/master/Continuum%20DAO%20Smart%20Contract%20Audit%20report%20-%20QuillAudits.pdf](https://github.com/Quillhash/QuillAudit_smart_contract_audit_Reports/blob/master/HeyElsa%20V2%20Smart%20Contract%20Audit%20Report%20-%20QuillAudits.pdf)) | ✅ Complete |
+| HeyElsa | Staking | 2026 | 0/1/4 | [🔓 Report]([https://github.com/Quillhash/QuillAudit_Reports/blob/master/Continuum%20DAO%20Smart%20Contract%20Audit%20report%20-%20QuillAudits.pdf])(https://github.com/Quillhash/QuillAudit_smart_contract_audit_Reports/blob/master/HeyElsa%20V2%20Smart%20Contract%20Audit%20Report%20-%20QuillAudits.pdf)) | ✅ Complete |
 | Bean Exchange | GMX Fork | 2025 | 1/1/2 | REDACTED | ✅ Complete |
 | ContinuumDAO | RWA, Governance, Multichain | 2025 | 0/21/13 | [🔓 Report](https://github.com/Quillhash/QuillAudit_Reports/blob/master/Continuum%20DAO%20Smart%20Contract%20Audit%20report%20-%20QuillAudits.pdf) | ✅ Complete |
 | NexLabs | RWA | 2025 | 0/1/6 | [🔓 Report](https://github.com/Quillhash/QuillAudit_Reports/blob/master/Nex%20labs%20Defi%20Indices%20Audit%20report%20-%20QuillAudits.pdf) | ✅ Complete |
