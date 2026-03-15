@@ -1,9 +1,9 @@
 # Cryptanu - Smart Contract Security Researcher
 
 ## Profile
-- Security Researcher, **QuillAudits**
-- Block 7 Fellow, **YAudit (formerly YAcadamy, Electisec)**
-- Audited 40+ blockchain protocols spanning across RWA, DeFi, AMM, NFT, Gaming, DAO, Launchpad, L1, Crosschain  
+- Senior Security Researcher, **[QuillAudits](https://www.quillaudits.com/auditors/cryptanu)**
+- Block 7 [Fellow](https://x.com/yAuditDAO/status/1935024370931614171?s=20), **YAudit (formerly YAcadamy, electisec)**
+- Caught critical bugs in RWA, DeFi, AMM, NFT, Gaming, DAO, Launchpad, L1, Crosschain systems.
 
 ## Open-Source Contributions, Disclosures and Articles
 2025
@@ -15,29 +15,26 @@
 - Security at the Human Layer [Talk presented at Blockchain UNIBEN Conference 2026](https://github.com/cryptanu/verify/blob/main/Security%20at%20the%20Human%20Layer.pptx.pdf)
 - TOCTOU: Upgrading code to near MEV status [Article Link](https://hackmd.io/1iXzq20LSjS2V_U25N8EVw)
 
-## My Audit Profiles & Links
-- **Official audit portfolio**: [QuillAudits Profile](https://quillaudits.com/auditors/cryptanu)
-- **Blog/Security insights & updates**: [X](https://x.com/cryptanu)
-
 ## Recent Audits & Notable Projects
 
-### Top 5 Popular Protocols Audited
+### Recent Popular Protocols Audited
 
-| Protocol | Category | Date | Findings (H/M/L) | Report | Status |
+| Protocol | Category | Date | Findings (C/H/M) | Report | Status |
 |----------|----------|------|------------------|--------|--------|
-| ContinuumDAO | RWA, Governance, Multichain | 2025 | 21/13/24 | [🔓 Report](https://github.com/Quillhash/QuillAudit_Reports/blob/master/Continuum%20DAO%20Smart%20Contract%20Audit%20report%20-%20QuillAudits.pdf) | ✅ Complete |
-| NexLabs | RWA | 2025 | 1/6/5 | [🔓 Report](https://github.com/Quillhash/QuillAudit_Reports/blob/master/Nex%20labs%20Defi%20Indices%20Audit%20report%20-%20QuillAudits.pdf) | ✅ Complete |
-| Taiko | Bridge | 2024 | 4/0/6 | [🔓 Report](https://github.com/Quillhash/QuillAudit_Reports/blob/master/Taiko%20Smart%20Contracts%20Audit%20Report%20-%20QuillAudits.pdf) | ✅ Complete |
-| IntoTheVerse | NFT Marketplace | 2024 | 6/2/4 | [🔓 Report](https://github.com/Quillhash/QuillAudit_Reports/blob/master/IntoTheVerse%20Smart%20Contract%20Audit%20Report%20-%20QuillAudits.pdf) | ✅ Complete |
-| Aconomy | Lending | 2024 | 0/7/13 | [🔓 Report](https://github.com/Quillhash/QuillAudit_Reports/blob/master/Aconomy%20Smart%20Contract%20Audit%20Report%20-%20QuillAudits.pdf) | ✅ Complete |
+| HeyElsa | Staking | 2026 | 0/1/4 | [🔓 Report]([https://github.com/Quillhash/QuillAudit_Reports/blob/master/Continuum%20DAO%20Smart%20Contract%20Audit%20report%20-%20QuillAudits.pdf](https://github.com/Quillhash/QuillAudit_smart_contract_audit_Reports/blob/master/HeyElsa%20V2%20Smart%20Contract%20Audit%20Report%20-%20QuillAudits.pdf)) | ✅ Complete |
+| Bean Exchange | GMX Fork | 2025 | 1/1/2 | REDACTED | ✅ Complete |
+| ContinuumDAO | RWA, Governance, Multichain | 2025 | 0/21/13 | [🔓 Report](https://github.com/Quillhash/QuillAudit_Reports/blob/master/Continuum%20DAO%20Smart%20Contract%20Audit%20report%20-%20QuillAudits.pdf) | ✅ Complete |
+| NexLabs | RWA | 2025 | 0/1/6 | [🔓 Report](https://github.com/Quillhash/QuillAudit_Reports/blob/master/Nex%20labs%20Defi%20Indices%20Audit%20report%20-%20QuillAudits.pdf) | ✅ Complete |
+| Taiko | Bridge | 2024 | 0/4/0 | [🔓 Report](https://github.com/Quillhash/QuillAudit_Reports/blob/master/Taiko%20Smart%20Contracts%20Audit%20Report%20-%20QuillAudits.pdf) | ✅ Complete |
+| IntoTheVerse | NFT Marketplace | 2024 | 0/6/2 | [🔓 Report](https://github.com/Quillhash/QuillAudit_Reports/blob/master/IntoTheVerse%20Smart%20Contract%20Audit%20Report%20-%20QuillAudits.pdf) | ✅ Complete |
 
 ## Summary Statistics
 
-| Category | High | Medium | Low | Total |
-|----------|------|--------|-----|-------|
-| QuillAudits | 74 | 113 | 132 | 319 |
-| Public Contests | 1 | 2 | 6 | 9 |
-| **Total** | **75** | **115** | **138** | **328** |
+| Category | High | Medium | Low |
+|----------|------|--------|-----|
+| Private Reviews | 74 | 113 | 132 |
+| Public Contests | 1 | 2 | 6 |
+| **Total** | **75** | **115** | **138** |
 
 ## Interesting Findings & Impact
 
