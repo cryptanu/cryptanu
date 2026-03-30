@@ -21,8 +21,9 @@
 
 | Protocol | Category | Date | Findings (C/H/M) | Report | Status |
 |----------|----------|------|------------------|--------|--------|
-| HeyElsa | Staking | 2026 | 0/1/4 | [🔓 Report](https://github.com/Quillhash/QuillAudit_Reports/blob/master/Continuum%20DAO%20Smart%20Contract%20Audit%20report%20-%20QuillAudits.pdf) | ✅ Complete |
+| HeyElsa | Staking | 2026 | 0/1/4 | REDACTED | ✅ Complete |
 | Bean Exchange | GMX Fork | 2025 | 1/1/2 | REDACTED | ✅ Complete |
+| Istakapaza | Bonding Curve, RWA, NFT | 2025 | 0/3/4 | [🔓 Report](https://github.com/Quillhash/QuillAudit_smart_contract_audit_Reports/blob/master/IPaza%20Labs%20V3%20Smart%20Contract%20Audit%20report%20-%20QuillAudits.pdf) | ✅ Complete |
 | ContinuumDAO | RWA, Governance, Multichain | 2025 | 0/21/13 | [🔓 Report](https://github.com/Quillhash/QuillAudit_Reports/blob/master/Continuum%20DAO%20Smart%20Contract%20Audit%20report%20-%20QuillAudits.pdf) | ✅ Complete |
 | NexLabs | RWA | 2025 | 0/1/6 | [🔓 Report](https://github.com/Quillhash/QuillAudit_Reports/blob/master/Nex%20labs%20Defi%20Indices%20Audit%20report%20-%20QuillAudits.pdf) | ✅ Complete |
 | Taiko | Bridge | 2024 | 0/4/0 | [🔓 Report](https://github.com/Quillhash/QuillAudit_Reports/blob/master/Taiko%20Smart%20Contracts%20Audit%20Report%20-%20QuillAudits.pdf) | ✅ Complete |
@@ -38,7 +39,8 @@
 
 ## Interesting Findings & Impact
 
-- **Structural week-ratcheting suppresses intended decay** - Updating the split and merge functionality in Curve's veCTM introduced this critical issue allowing users not lose voting power over the 4 year period at no significant cost. [ContinuumDAO C-5](...)
+- **`split()` and `merge()` functionality causes infinite voting power due to missing arithmetic checks** - Updating the split and merge functionality in Curve's veCTM introduced this critical issue allowing users not lose voting power over the 4 year period at no significant cost. [ContinuumDAO C-5](https://github.com/Quillhash/QuillAudit_Reports/blob/master/Continuum%20DAO%20Smart%20Contract%20Audit%20report%20-%20QuillAudits.pdf)
+- **Missing check allows drawing unbacked (non-native) issuer RWA loans** - The `mintLoanNFT()` function consumes the NFT loan IDs provided before checking whether they are backed/unbacked, and when the check happens it silently fails and continues execution allowing imported loans from an external issuer be consumed. [Istakapaza H-2](https://github.com/Quillhash/QuillAudit_smart_contract_audit_Reports/blob/master/IPaza%20Labs%20V3%20Smart%20Contract%20Audit%20report%20-%20QuillAudits.pdf)
 - **AMM Fee Bypass** - Discovered a flaw in fee calculation allowing users to bypass trading fees, potentially costing the protocol significant revenue. [NexLabs Defi Indices H-1](https://www.quillaudits.com/leaderboard/nex-labs/nex-labs-defi-indices)
 - **Cross-chain Bridge Validation Bypass** - Signature replay flaw that could allow unauthorized funds claims. [WChain Bridge H-1](https://www.quillaudits.com/leaderboard/w-chain-bridge)
 - **Collateralization Ratio Flaw** - Poor collateral calculation leading to potential under-collateralization. [Aconomy M-5](https://www.quillaudits.com/leaderboard/aconomy)
